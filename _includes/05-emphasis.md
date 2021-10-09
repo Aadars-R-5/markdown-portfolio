@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Saitama Pros**            
+*Takes just 1 punch*
+**Goku Pros**
+*Idk haven't watched the Anime yet .-.*
